@@ -60,4 +60,9 @@ Swift     ██░░░░░░░░░░░░░░░░░░   1 repo
 
 ---
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Gargadon&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Gargadon)
+<div align="center">
+
+[![Repos](https://img.shields.io/badge/repos-29-1f883d?style=for-the-badge&logo=github)](https://github.com/Gargadon?tab=repositories)
+[![Seguidores](https://img.shields.io/github/followers/Gargadon?style=for-the-badge&logo=github&label=seguidores&color=1f883d)](https://github.com/Gargadon?tab=followers)
+
+</div>
