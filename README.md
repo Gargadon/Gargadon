@@ -34,7 +34,7 @@ Desarrollador apasionado por el **software libre**, la personalización de **Lin
 ### Otros proyectos
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [Proclama](https://github.com/Gargadon/Proclama) | Presentador para iglesias | Astro |
+| [Proclama](https://github.com/Gargadon/Proclama) | Sitio web de Proclama (app C++/Qt) | Astro |
 | [RetosTAPUVEG](https://github.com/Gargadon/RetosTAPUVEG) | Retos de programación | Java |
 | [xchat-spotify-np](https://github.com/Gargadon/xchat-spotify-np) | Now Playing script para XChat | Python |
 
@@ -60,6 +60,4 @@ Swift     ██░░░░░░░░░░░░░░░░░░   1 repo
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gargadon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Gargadon&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Gargadon)
