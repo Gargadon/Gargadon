@@ -8,6 +8,11 @@ Desarrollador apasionado por el **software libre**, la personalización de **Lin
 
 ---
 
+## Formación académica
+- Ingeniero Electrónico (Universidad Autónoma del Carmen)
+- Maestro en Ingeniería Mecatrónica (Universidad Autónoma del Carmen)
+- Ingeniero en Sistemas Computacionales (Universidad Virtual del Estado de Guanajuato)
+
 ## Proyectos destacados
 
 ### Linux Desktop & COSMIC
