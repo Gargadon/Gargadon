@@ -1,16 +1,65 @@
-## Hi there 👋
+# ¡Hola! Soy David Kantun — Gargadon
 
-<!--
-**Gargadon/Gargadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador apasionado por el **software libre**, la personalización de **Linux desktop** y las herramientas **GUI** prácticas.
 
-Here are some ideas to get you started:
+- Ciudad del Carmen, México
+- [gargadon.info](https://www.gargadon.info)
+- [@gargadon](https://x.com/gargadon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Proyectos destacados
+
+### Linux Desktop & COSMIC
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [catOS](https://github.com/Gargadon/catOS) | Tema Plasma 6 para amantes de los gatos | CSS |
+| [cosmic-ext-show-desktop](https://github.com/Gargadon/cosmic-ext-show-desktop) | Applet "Mostrar escritorio" para COSMIC | Rust |
+| [KiteCoreSystemMonitor](https://github.com/Gargadon/KiteCoreSystemMonitor) | Themes de monitor con personajes de Kite Wars | Kotlin |
+
+### Herramientas GUI (C++ / Qt)
+| Proyecto | Descripción |
+|----------|-------------|
+| [BanchouPatcher](https://github.com/Gargadon/BanchouPatcher) | GUI para xdelta3 |
+| [BanchouCRC](https://github.com/Gargadon/BanchouCRC) | Generador de checksums CRC32 |
+| [CFDICalc](https://github.com/Gargadon/CFDICalc) | Calculadora CFDI |
+
+### Web & Maquetación
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [gargadon.info](https://github.com/Gargadon/gargadon.info) | Sitio personal | TypeScript |
+| [libria](https://github.com/Gargadon/libria) | Maquetador de ebooks y libros físicos | TypeScript |
+| [encriptadorOne](https://github.com/Gargadon/encriptadorOne) | Encriptador de texto | CSS |
+
+### Otros proyectos
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [Proclama](https://github.com/Gargadon/Proclama) | Presentador para iglesias | Astro |
+| [RetosTAPUVEG](https://github.com/Gargadon/RetosTAPUVEG) | Retos de programación | Java |
+| [xchat-spotify-np](https://github.com/Gargadon/xchat-spotify-np) | Now Playing script para XChat | Python |
+
+---
+
+## Lenguajes que uso
+
+```
+C#        ████████████████████░  10 repos
+TypeScript████████████████░░░░░   8 repos
+C++       ████████░░░░░░░░░░░░   4 repos
+CSS       ████████░░░░░░░░░░░░   4 repos
+Astro     ████░░░░░░░░░░░░░░░░   2 repos
+Java      ██░░░░░░░░░░░░░░░░░░   1 repo
+Kotlin    ██░░░░░░░░░░░░░░░░░░   1 repo
+Python    ██░░░░░░░░░░░░░░░░░░   1 repo
+Rust      ██░░░░░░░░░░░░░░░░░░   1 repo
+Swift     ██░░░░░░░░░░░░░░░░░░   1 repo
+```
+
+**Frameworks/Toolkits:** Qt5, Qt6, COSMIC API, Astro, Angular, Capacitor, .NET
+**Plataforma:** Linux (Plasma 6, COSMIC), Windows, iOS
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gargadon&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
