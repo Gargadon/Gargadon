@@ -15,7 +15,7 @@ Desarrollador apasionado por el **software libre**, la personalización de **Lin
 |----------|-------------|-------|
 | [catOS](https://github.com/Gargadon/catOS) | Tema Plasma 6 para amantes de los gatos | CSS |
 | [cosmic-ext-show-desktop](https://github.com/Gargadon/cosmic-ext-show-desktop) | Applet "Mostrar escritorio" para COSMIC | Rust |
-| [KiteCoreSystemMonitor](https://github.com/Gargadon/KiteCoreSystemMonitor) | Themes de monitor con personajes de Kite Wars | Kotlin |
+| [KiteCoreSystemMonitor](https://github.com/Gargadon/KiteCoreSystemMonitor) | Themes de monitor con personajes de Kite Wars | QML, XAML, Kotlin |
 
 ### Herramientas GUI (C++ / Qt)
 | Proyecto | Descripción |
