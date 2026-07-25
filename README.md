@@ -3,7 +3,7 @@
 Desarrollador apasionado por el **software libre**, la personalización de **Linux desktop** y las herramientas **GUI** prácticas.
 
 - Ciudad del Carmen, México
-- [gargadon.info](https://www.gargadon.info)
+- [kitewars.com.mx](https://www.kitewars.com.mx) · [getlibria.org](https://getlibria.org) · [gargadon.github.io/Proclama](https://gargadon.github.io/Proclama)
 - [@gargadon](https://x.com/gargadon)
 
 ---
