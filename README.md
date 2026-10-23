@@ -19,6 +19,14 @@ Mi formación en **Sistemas Computacionales, Electrónica y Mecatrónica** me pe
 - **Edición y documentos:** edición estructurada, composición tipográfica e importación y exportación de formatos.
 - **Software orientado al usuario:** organización de flujos de trabajo, controles especializados e interfaces para tareas complejas.
 
+## Formación académica
+
+| Grado | Institución |
+| :--- | :--- |
+| Ingeniería en Sistemas Computacionales | Universidad Virtual del Estado de Guanajuato |
+| Maestría en Ingeniería Mecatrónica | Universidad Autónoma del Carmen |
+| Ingeniería Electrónica | Universidad Autónoma del Carmen |
+
 ## Proyectos destacados
 
 ### [BanchoXterm](https://banchoxterm.gargadonapps.com)
@@ -94,14 +102,6 @@ Tecnologías utilizadas en mis proyectos públicos y privados.
 | [BanchouPatcher](https://github.com/Gargadon/BanchouPatcher) | Interfaz gráfica para trabajar con parches xdelta3. |
 | [BanchouCRC](https://github.com/Gargadon/BanchouCRC) | Utilidad gráfica para generar checksums CRC32. |
 | [CFDICalc](https://github.com/Gargadon/CFDICalc) | Calculadora CFDI. |
-
-## Formación académica
-
-| Grado | Institución |
-| :--- | :--- |
-| Ingeniería en Sistemas Computacionales | Universidad Virtual del Estado de Guanajuato |
-| Maestría en Ingeniería Mecatrónica | Universidad Autónoma del Carmen |
-| Ingeniería Electrónica | Universidad Autónoma del Carmen |
 
 ## También escribo
 
