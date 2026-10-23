@@ -1,8 +1,8 @@
 # David Kantun · Gargadon
 
-**Desarrollador de software | Aplicaciones de escritorio · C++ / Qt · TypeScript / Angular · Linux y Windows**
+**Desarrollador de software | Web · Backend · Móvil · Escritorio**
 
-Construyo aplicaciones que conectan interfaces gráficas con necesidades técnicas concretas: gestionar conexiones remotas, editar y publicar libros, y operar presentaciones multimedia. Mis proyectos combinan desarrollo de interfaces, integración con el sistema operativo, protocolos de red y manejo de documentos.
+Desarrollo aplicaciones web, servicios backend y herramientas para móviles y escritorio. Trabajo con TypeScript y Angular, C# y ASP.NET Core, y C++ y Qt, además de otros frameworks según las necesidades del proyecto. Mis desarrollos abarcan sistemas de gestión, integración de servicios, conexiones remotas y herramientas editoriales y multimedia.
 
 Mi formación en **Sistemas Computacionales, Electrónica y Mecatrónica** me permite abordar problemas desde el software y su interacción con el hardware.
 
@@ -12,6 +12,8 @@ Mi formación en **Sistemas Computacionales, Electrónica y Mecatrónica** me pe
 
 ## Áreas de desarrollo
 
+- **Web y backend:** interfaces con Angular y React, APIs con ASP.NET Core y Laravel, acceso a datos con Entity Framework Core e integración en tiempo real con SignalR.
+- **Aplicaciones móviles:** desarrollo con React Native y Capacitor para Android e iOS, almacenamiento local e integración con servicios en la nube.
 - **Aplicaciones multiplataforma:** interfaces de escritorio con Qt y Tauri, e integración con Linux y Windows.
 - **Redes y acceso remoto:** terminales, sesiones SSH, transferencia de archivos y túneles.
 - **Edición y documentos:** edición estructurada, composición tipográfica e importación y exportación de formatos.
@@ -66,11 +68,22 @@ Separa la interfaz del operador de la salida de proyección y reúne el contenid
 
 ## Tecnologías
 
-| Área | Lenguajes y herramientas |
+Tecnologías utilizadas en mis proyectos públicos y privados.
+
+| Área | Lenguajes, frameworks y herramientas |
 | :--- | :--- |
-| Aplicaciones de escritorio | C++, Qt, C#, .NET, Tauri |
-| Desarrollo web | TypeScript, Angular, Astro |
-| Linux y escritorio | Rust, COSMIC, Plasma |
+| Frontend web | TypeScript, JavaScript, Angular, React, Astro, RxJS |
+| Interfaces y componentes | Angular Material, Bootstrap, AG Grid, TipTap |
+| Backend y APIs | C#, .NET, ASP.NET Core, Entity Framework Core, PHP, Laravel, Node.js, Express |
+| Aplicaciones móviles | React Native, Capacitor, Android, iOS |
+| Aplicaciones de escritorio | C++, Qt, Tauri, Rust, Electron |
+| Datos y almacenamiento | SQL Server, SQLite, Realm, Azure Blob Storage, Google Cloud Storage |
+| Integraciones y tiempo real | SignalR, Firebase, Twilio, JWT, Laravel Sanctum |
+| Documentos y visualización | Vivliostyle, pdfmake, PDF.js, ClosedXML, ExcelJS, Apache ECharts, ApexCharts |
+| Gráficos interactivos | PixiJS, Pixi’VN |
+| Pruebas y calidad | Vitest, Jest, Testing Library, Jasmine, Karma, ESLint, Prettier |
+| Construcción y despliegue | Docker, Docker Compose, Nginx, CMake, Vite, Bun, Azure Pipelines |
+| Linux y escritorio | COSMIC, Plasma |
 | Otros lenguajes con los que he trabajado | Python, Java, Kotlin, Swift |
 
 ## Otras utilidades
