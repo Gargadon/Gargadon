@@ -8,7 +8,7 @@ Mi formación en **Sistemas Computacionales, Electrónica y Mecatrónica** me pe
 
 📍 Ciudad del Carmen, México
 
-[Portafolio](https://gargadon.info) · [BanchoXterm](https://banchoxterm.gargadonapps.com) · [Libria](https://getlibria.org) · [Proclama](https://proclama.gargadonapps.com) · [Repositorios](https://github.com/Gargadon?tab=repositories)
+[BanchoXterm](https://banchoxterm.gargadonapps.com) · [Libria](https://getlibria.org) · [Proclama](https://proclama.gargadonapps.com) · [Repositorios](https://github.com/Gargadon?tab=repositories)
 
 ## Lo que puedes encontrar en mi trabajo
 
@@ -96,6 +96,3 @@ Soy autor de **Kite Wars**. Mi trabajo como escritor también se refleja en mi i
 
 [Conocer Kite Wars →](https://www.kitewars.com.mx)
 
----
-
-**Conoce mi trabajo:** [portafolio](https://gargadon.info) · [repositorios](https://github.com/Gargadon?tab=repositories) · [X / Twitter](https://x.com/gargadon)
