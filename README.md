@@ -1,73 +1,81 @@
-# ¡Hola! Soy David Kantun — Gargadon
+# ¡Hola! Soy David Kantun · Gargadon
 
-Desarrollador apasionado por el **software libre**, la personalización de **Linux desktop** y las herramientas **GUI** prácticas.
+**Desarrollo aplicaciones de escritorio, herramientas para autores y utilidades para Linux y Windows.**
 
-- Ciudad del Carmen, México
-- [kitewars.com.mx](https://www.kitewars.com.mx) · [getlibria.org](https://getlibria.org) · [gargadon.github.io/Proclama](https://gargadon.github.io/Proclama)
-- [@gargadon](https://x.com/gargadon)
+Me interesa convertir tareas complejas en interfaces prácticas: administrar sesiones remotas, preparar un libro para publicación o controlar una proyección. El software libre y la personalización del escritorio Linux también forman parte de lo que hago.
 
----
+📍 Ciudad del Carmen, México
 
-## Formación académica
-- Ingeniero Electrónico (Universidad Autónoma del Carmen)
-- Maestro en Ingeniería Mecatrónica (Universidad Autónoma del Carmen)
-- Ingeniero en Sistemas Computacionales (Universidad Virtual del Estado de Guanajuato)
+[Web personal](https://gargadon.info) · [Libria](https://getlibria.org) · [Proclama](https://gargadon.github.io/Proclama) · [Kite Wars](https://www.kitewars.com.mx) · [X / Twitter](https://x.com/gargadon)
 
 ## Proyectos destacados
 
-### Linux Desktop & COSMIC
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [catOS](https://github.com/Gargadon/catOS) | Tema Plasma 6 para amantes de los gatos | CSS |
-| [cosmic-ext-show-desktop](https://github.com/Gargadon/cosmic-ext-show-desktop) | Applet "Mostrar escritorio" para COSMIC | Rust |
-| [KiteCoreSystemMonitor](https://github.com/Gargadon/KiteCoreSystemMonitor) | Themes de monitor con personajes de Kite Wars | QML, XAML, Kotlin |
+### [BanchoXterm](https://github.com/Gargadon/banchoxterm)
+Terminal multiprotocolo y administrador de sesiones remotas para **Linux y Windows**.
 
-### Herramientas GUI (C++ / Qt)
-| Proyecto | Descripción |
-|----------|-------------|
-| [BanchouPatcher](https://github.com/Gargadon/BanchouPatcher) | GUI para xdelta3 |
-| [BanchouCRC](https://github.com/Gargadon/BanchouCRC) | Generador de checksums CRC32 |
-| [CFDICalc](https://github.com/Gargadon/CFDICalc) | Calculadora CFDI |
+- Terminales en pestañas, conexiones SSH, Telnet y consola serie.
+- Explorador de archivos SFTP y transferencias FTP/FTPS.
+- Organización de sesiones, túneles SSH y monitoreo remoto.
 
-### Web & Maquetación
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [gargadon.info](https://github.com/Gargadon/gargadon.info) | Sitio personal | TypeScript |
-| [libria](https://github.com/Gargadon/libria) | Maquetador de ebooks y libros físicos | TypeScript |
-| [encriptadorOne](https://github.com/Gargadon/encriptadorOne) | Encriptador de texto | CSS |
+[Explorar el proyecto →](https://github.com/Gargadon/banchoxterm#readme)
 
-### Otros proyectos
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [Proclama](https://github.com/Gargadon/Proclama) | Presentador para iglesias y congregaciones cristianas | C++, Qt |
-| [RetosTAPUVEG](https://github.com/Gargadon/RetosTAPUVEG) | Retos de programación | Java |
-| [xchat-spotify-np](https://github.com/Gargadon/xchat-spotify-np) | Now Playing script para XChat | Python |
+### [Libria](https://github.com/Gargadon/libria)
+Entorno de escritorio para **escribir, revisar y maquetar libros**, desde el borrador hasta la exportación.
+
+- Edición por bloques, organización de capítulos y fichas de personajes y lugares.
+- Control tipográfico y previsualización para papel y dispositivos de lectura.
+- Exportación a EPUB, PDF y DOCX, con un formato de proyecto abierto: `.libria`.
+
+**Tecnologías:** TypeScript · Angular · Tauri · Rust · Vivliostyle
+
+[Visitar Libria →](https://getlibria.org) · [Explorar el código →](https://github.com/Gargadon/libria)
+
+### [Proclama](https://github.com/Gargadon/Proclama)
+Presentador multimedia para **iglesias y congregaciones**, con una interfaz de operación independiente de la proyección.
+
+- Proyección de canciones, versículos bíblicos, imágenes y videos.
+- Organización del servicio e importación de documentos PDF.
+- Control remoto desde teléfonos y tabletas.
+
+**Tecnologías:** C++ · Qt 6 · CMake
+
+[Visitar Proclama →](https://gargadon.github.io/Proclama) · [Explorar el proyecto →](https://github.com/Gargadon/Proclama)
+
+## Más herramientas y experimentos
+
+| Proyecto | Qué hace |
+| :--- | :--- |
+| [Show Desktop para COSMIC](https://github.com/Gargadon/cosmic-ext-show-desktop) | Applet para minimizar y restaurar ventanas desde el panel o un atajo de teclado. |
+| [BanchouPatcher](https://github.com/Gargadon/BanchouPatcher) | Interfaz gráfica para trabajar con parches xdelta3. |
+| [BanchouCRC](https://github.com/Gargadon/BanchouCRC) | Utilidad gráfica para generar checksums CRC32. |
+| [CFDICalc](https://github.com/Gargadon/CFDICalc) | Calculadora CFDI. |
+| [gargadon.info](https://github.com/Gargadon/gargadon.info) | Código de mi sitio personal. |
+| [RetosTAPUVEG](https://github.com/Gargadon/RetosTAPUVEG) | Ejercicios y retos de programación en Java. |
+| [xchat-spotify-np](https://github.com/Gargadon/xchat-spotify-np) | Script en Python para compartir lo que suena en Spotify desde XChat. |
+
+[Ver todos mis repositorios →](https://github.com/Gargadon?tab=repositories)
+
+## Tecnologías e intereses
+
+- **Escritorio:** C++, Qt, C#, .NET y Tauri.
+- **Web y edición:** TypeScript, Angular y Astro.
+- **Linux:** Plasma, COSMIC y desarrollo de utilidades en Rust.
+- **También he trabajado con:** Python, Java, Kotlin y Swift.
+
+## Formación académica
+
+| Grado | Institución |
+| :--- | :--- |
+| Ingeniería en Sistemas Computacionales | Universidad Virtual del Estado de Guanajuato |
+| Maestría en Ingeniería Mecatrónica | Universidad Autónoma del Carmen |
+| Ingeniería Electrónica | Universidad Autónoma del Carmen |
+
+## Más allá del código
+
+También escribo **Kite Wars**. La escritura y el desarrollo de software se encuentran en proyectos como Libria: herramientas para cuidar tanto el contenido como la presentación de una obra.
+
+[Conocer Kite Wars →](https://www.kitewars.com.mx)
 
 ---
 
-## Lenguajes que uso
-
-```
-C#        ████████████████████░  10 repos
-TypeScript████████████████░░░░░   8 repos
-C++       ████████░░░░░░░░░░░░   4 repos
-CSS       ████████░░░░░░░░░░░░   4 repos
-Astro     ████░░░░░░░░░░░░░░░░   2 repos
-Java      ██░░░░░░░░░░░░░░░░░░   1 repo
-Kotlin    ██░░░░░░░░░░░░░░░░░░   1 repo
-Python    ██░░░░░░░░░░░░░░░░░░   1 repo
-Rust      ██░░░░░░░░░░░░░░░░░░   1 repo
-Swift     ██░░░░░░░░░░░░░░░░░░   1 repo
-```
-
-**Frameworks/Toolkits:** Qt5, Qt6, COSMIC API, Astro, Angular, Capacitor, .NET
-**Plataforma:** Linux (Plasma 6, COSMIC), Windows, iOS
-
----
-
-<div align="center">
-
-[![Repos](https://img.shields.io/badge/repos-29-1f883d?style=for-the-badge&logo=github)](https://github.com/Gargadon?tab=repositories)
-[![Seguidores](https://img.shields.io/github/followers/Gargadon?style=for-the-badge&logo=github&label=seguidores&color=1f883d)](https://github.com/Gargadon?tab=followers)
-
-</div>
+¿Encontraste un error o tienes una propuesta? Abre un issue en el repositorio del proyecto correspondiente.
