@@ -10,7 +10,7 @@ Mi formación en **Sistemas Computacionales, Electrónica y Mecatrónica** me pe
 
 [BanchoXterm](https://banchoxterm.gargadonapps.com) · [Libria](https://getlibria.org) · [Proclama](https://proclama.gargadonapps.com) · [Repositorios](https://github.com/Gargadon?tab=repositories)
 
-## Lo que puedes encontrar en mi trabajo
+## Áreas de desarrollo
 
 - **Aplicaciones multiplataforma:** interfaces de escritorio con Qt y Tauri, e integración con Linux y Windows.
 - **Redes y acceso remoto:** terminales, sesiones SSH, transferencia de archivos y túneles.
